@@ -1,0 +1,44 @@
+Extraction for file:  ../OCR_Output_For_Sample_Invoices/1_100A 39015.pdf.xml
+------------------------
+Number:  39015
+Date:  6/1/2018
+Amount:  17,657.53
+Terms:  
+Extraction for file:  ../OCR_Output_For_Sample_Invoices/2_215B 72.pdf.xml
+------------------------
+Number:  72
+Date:  06/05/2018
+Amounnt:  $750.00
+Terms:  
+Extraction for file:  ../OCR_Output_For_Sample_Invoices/3_AD Notions Int'l Pte Ltd.pdf.xml
+------------------------
+Number:  ADIPL/INV/070/17
+Date:  8th June 2017
+Amounnt:  $250.00
+Terms:  
+Extraction for file:  ../OCR_Output_For_Sample_Invoices/4_Sample 5.pdf.xml
+------------------------
+Number:  1220-127612
+Date:  20/06/2015
+Amounnt:  $572.00 H
+Terms:  
+Extraction for file:  ../OCR_Output_For_Sample_Invoices/5_CIOX_0248727220.pdf.xml
+------------------------
+Number:  0248727220
+Date:  6/27/2018
+Amount:  30.25 (USD)
+Terms:  
+Extraction for file:  ../OCR_Output_For_Sample_Invoices/6_ORAC 44273107.pdf.xml
+------------------------
+Number:  44273107
+Date:  18-Jun-2018
+Amounnt:  91,580.50
+Terms:  30 NET
+Extraction for file:  ../OCR_Output_For_Sample_Invoices/7_1120V 5568.pdf.xml
+------------------------
+Number:  5568
+Date:  6/12/2018
+Amount:  2,487.73
+Terms:  
+
+Process finished with exit code 0
