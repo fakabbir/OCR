@@ -1,5 +1,9 @@
 - Python Version: 3.6.5
 
+# Code Structure
+![image](https://user-images.githubusercontent.com/13721550/121764553-421c1d80-caf1-11eb-93dd-893705faa606.png)
+
+
 # High-Level Approach
 Since the hOCR files are good representation of the *.pdf files. For this work I have relaxed the fact that there could be mistakes in the file and has to be taken care. (Note: Again few errors are there in the hOCR. e.g: "Invoice Number" in 4th PDF has detected 1 instead of l). This mistakes can be taken care at the pre processing point by applying corrections.
 
